@@ -1,0 +1,26 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+
+# Local config
+local.properties
+
+# Logs and misc
+*.log
+*.hprof
+
+# Build outputs
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+out/
+
+# Firebase / Google Services
+google-services.json
+google-services_old.json

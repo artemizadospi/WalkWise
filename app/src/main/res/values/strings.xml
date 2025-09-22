@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WalkWise</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="location">Location</string>
+    <string name="route">Route</string>
+    <string name="map">Map</string>
+    <string name="contribute">Contribute</string>
+    <string name="back_button">Back</string>
+    <string name="begin_journey">BEGIN YOUR JOURNEY NOW</string>
+    <string name="web_client_id">900424464238-3qkjmsu8ho1el6mv50bpp0sbtbiptikr.apps.googleusercontent.com</string>
+</resources>
